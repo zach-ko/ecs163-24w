@@ -1,1 +1,1 @@
-# Homework 0: Scatch your own visualization
+# Homework 0: Sketch your own visualization
