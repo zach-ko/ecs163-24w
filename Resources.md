@@ -42,12 +42,6 @@ Here are some tutorials that could be helpful for completing the assignments and
 * [D3-Observable-Walkthrough](https://observablehq.com/@d3/learn-d3?collection=@d3/learn-d3) - tutorial for using D3 js
 * [D3 Book](https://proquest.safaribooksonline.com/book/databases/business-intelligence/9781491921296) - book on princples of D3
 
-#### Typing
-* [TypeScript](https://www.typescriptlang.org/docs/handbook/typescript-from-scratch.html) - Typing JavaScript
 
-#### Python
-* [Python Basics](https://www.learnpython.org/)
-  * Although python will not be used in this course for implementing your visualizations, you are free to use it for data preprocessing and processing.
-* [Pandas](https://pandas.pydata.org/docs/user_guide/10min.html) - a powerful library that helps you analyze data.
 
 (Credits: Keshav Dasu, Yun-Hsin Kuo and Jessica)
