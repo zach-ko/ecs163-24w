@@ -1,5 +1,5 @@
 # Welcome to ECS163 Information Visualization
-This repository contains class materials for ECS 163 in Winter 2023.
+This repository contains class materials for ECS 163 in Winter 2024.
 
 ## Time and Location
 * Lecture Time: __15:10 - 16:00 Mondays, Wednesdays and Fridays__
@@ -8,7 +8,7 @@ This repository contains class materials for ECS 163 in Winter 2023.
 ## Instructors and Office Hours
 * Instructor: [Dongyu Liu](https://dongyu.tech/)
 * Teaching Assistant: Jessica
-* TA Office Hours: TBD
+* TA Office Hours: Kemper 3106
 
 ## Course Description
 In this class, you will learn about information visualization  (InfoVis) techniques and their applications in a variety of fields. Through lectures and doing homework assignments and projects, you should expect to be able to:
