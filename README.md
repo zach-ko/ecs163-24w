@@ -21,7 +21,7 @@ In this class, you will learn about information visualization  (InfoVis) techniq
 
 ## Homeworks and Project
 There are four homework assignments and one final project. Please find all the materials, including descriptions, tutorials, guidelines, and coding templates, from the folder assigned for each assignment and project in this GitHub repository.
-* [Homework 0: Sketching Visualization](Homework0)
+* [Homework 0: Sketching Visualizations](Homework0)
 * [Homework 1: Static Visualization](Homework1)
 * [Homework 2: Visualization Dashboard](Homework2)
 * [Homework 3: Interaction Design](Homework3)
