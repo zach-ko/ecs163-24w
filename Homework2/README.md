@@ -36,7 +36,7 @@ In this assignment, you can choose one of the following datasets:
 To use a dataset, download the data file from the respective URL above and put it in the `./<your-template>/data` folder.
 
 ## Step 1: Set Up the Environment
-We provided template using Javascript, you can find it and more technical details in ./Homework2/Template.
+We provided template using Javascript, you can find it and more technical details in `./Homework2/Template`.
 
 Note that you are free to use other existing frameworks and libraries in JavaScript to implement your interface, while d3.js remains required for completing this assignment.
 
