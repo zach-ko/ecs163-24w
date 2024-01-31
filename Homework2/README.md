@@ -60,7 +60,6 @@ The design paradigm you will be following is referred to as focus + context.
 
 * A focus view is where the data of most interest is displayed at full size or with full details.
 * A context view is a peripheral zone, an overview,  where elements are displayed at reduced size or in a simplified way.
-For each view, you need to provide one or more visual interface widgets (e.g., a dropdown menu or slider) for changing the parameters of the visualization. For example, a drop-down menu can be provided for selecting the data dimension that maps to the x-axis of a scatter plot or the color encoding used in a 2D heatmap.
 
 Note that creating a bar chart and a histogram only counts as using only one method, since their implementation is nearly the same.
 
